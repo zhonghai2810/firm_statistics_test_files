@@ -3,7 +3,6 @@
 
 import re,os
 from expressions import regular_expressions as res
-#import expressions.regular_expressions as res
 
 files_path = "txt_files"
 files = os.listdir(files_path)
