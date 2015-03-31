@@ -104,6 +104,7 @@ for file in files:
 			value = res.fail_cancel_operation.search(line)
 			dic['fail_cancel_operation'] += int(value.group('value'))
 
+# average time
 dic['average_time'] = total_test_time/dic['total_test']
 
 for key in dic:
