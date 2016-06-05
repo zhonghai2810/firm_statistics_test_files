@@ -1,0 +1,23 @@
+From dc5449f2063c2d8572a12dbc0ee9e6845fff64e9 Mon Sep 17 00:00:00 2001
+From: ZHONG HAI <zhonghai2810@gmail.com>
+Date: Sun, 5 Jun 2016 08:52:19 +0800
+Subject: [PATCH] modify devfile.txt, add 88, 99
+
+---
+ devfile.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/devfile.txt b/devfile.txt
+index 0f7e32b..b3aaeb3 100644
+--- a/devfile.txt
++++ b/devfile.txt
+@@ -2,3 +2,5 @@
+ 44
+ 55
+ 66
++88
++99
+\ No newline at end of file
+-- 
+2.8.2.windows.1
+

@@ -1,0 +1,25 @@
+From 51ac8fb651ac2b59b7eb154a70b5a8a6f5205455 Mon Sep 17 00:00:00 2001
+From: ZHONG HAI <zhonghai2810@gmail.com>
+Date: Sun, 5 Jun 2016 11:32:40 +0800
+Subject: [PATCH] squash for patch
+
+---
+ devfile.txt | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+diff --git a/devfile.txt b/devfile.txt
+index 02f29a8..8817bf2 100644
+--- a/devfile.txt
++++ b/devfile.txt
+@@ -3,5 +3,4 @@
+ 55
+ 66
+ 77
+-88
+-99
+\ No newline at end of file
++88
+\ No newline at end of file
+-- 
+2.8.2.windows.1
+
